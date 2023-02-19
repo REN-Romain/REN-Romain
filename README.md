@@ -1,4 +1,4 @@
-### Salut 👋
+# Salut 👋
 
 ## Actuellement étudiant à l'Université Paris-Saclay en Informatique
 
