@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub 👋
 
-## Je m'appele Romain, étudiant en informatique passionné par la technologie et le développement de logiciels
+## Je m'appelle Romain, étudiant en informatique passionné par la technologie et le développement de logiciels
 
 - 🎓 Je suis actuellement étudiant en BUT Informatique à l'IUT d'Orsay à l'Université Paris-Saclay.
 - 💻 Mes domaines d'intérêt incluent le développement web, l'intelligence artificielle et la cybersécurité.
