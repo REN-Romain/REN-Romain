@@ -6,4 +6,4 @@
 - 💻 Mes domaines d'intérêt incluent le développement web, l'intelligence artificielle et la cybersécurité.
 - 🌱 Je suis toujours en train d'apprendre de nouveaux langages, frameworks et technologies pour enrichir mes compétences.
 
-## N'hésitez pas à regarder les projets sur lesquels j'ai travaillé ! 👋
+## ⏬ N'hésitez pas à regarder les projets sur lesquels j'ai travaillé ! 👋⏬
